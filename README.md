@@ -1,3 +1,6 @@
+<img width="949" height="275" alt="image" src="https://github.com/user-attachments/assets/34b3fed7-fd39-4d7b-ac98-4a18c0e286d4" />
+
+
 # Clean Energy for Sustainable Power Production In U.S. Analysis
 Technical analysis of US power plants production, location and efficiency to find the best candidates of renewable energies for Bahrain's power system 
 
